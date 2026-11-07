@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring DFRobot_IRPositionV2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_IRPositionV2	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+setIRBrightnessThreshold	KEYWORD2
+setIRDetectionNoise	KEYWORD2
+setScaleResolution	KEYWORD2
+setMaxTrackingNumber	KEYWORD2
+setExposure	KEYWORD2
+getExposure	KEYWORD2
+setI2CAddress	KEYWORD2
+getI2CAddress	KEYWORD2
+setIndicator	KEYWORD2
+getIRCoordinate	KEYWORD2
+getIRBound	KEYWORD2
+getAverageBrightness	KEYWORD2
+getMaxBrightness	KEYWORD2
+getRadius	KEYWORD2
